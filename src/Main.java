@@ -12,6 +12,7 @@ void main() {
     }
     //task 2
     System.out.println("task 2");
+
 }
 
 
