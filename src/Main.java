@@ -11,7 +11,8 @@ void main() {
         System.out.println("Если возраст человека =" + age + ", то он несовершеннолетний");
     }
     //task 2
-    System.out.println( "task 2");
-
-
+    System.out.println("task 2");
 }
+
+
+
