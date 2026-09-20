@@ -29,6 +29,7 @@ void main() {
     for (int i = 2; i <= 512; i = i *2) {
 
     System.out.println(i);
+
     }
     //задача 8
     int salary = 29000;
@@ -41,7 +42,6 @@ void main() {
     System.out.println(total);
 
 //задача 9
-
     for (int i = 1; i <= 12; i++) {
         int percent = 12;
         total = total + (total*12)/100;
