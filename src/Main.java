@@ -43,14 +43,20 @@ void main() {
 //задача 9
 
     for (int i = 1; i <= 12; i++) {
-        total = total + total/100;
+        int percent = 12;
+        total = total + (total*12)/100;
         total = total + salary;
         System.out.println("Месяц " + i + " Итого " + total);
     }
     System.out.println(total);
 
     //задача 10
+    int number = 2; // Число, для которого делаем таблицу
 
+    for (int i = 1; i <= 10; i++) {
+        int result = number * i; // Считаем результат умножения
+        System.out.println(number + "*" + i + "=" + result);
+    }
 }
 
 
