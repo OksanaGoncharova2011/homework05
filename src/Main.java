@@ -50,6 +50,8 @@ void main() {
     System.out.println(total);
 
     //задача 10
+
+
 }
 
 
