@@ -29,7 +29,6 @@ void main() {
     for (int i = 2; i <= 512; i = i *2) {
 
     System.out.println(i);
-
     }
     //задача 8
     int salary = 29000;
@@ -52,7 +51,6 @@ void main() {
 
     //задача 10
     int number = 2; // Число, для которого делаем таблицу
-
     for (int i = 1; i <= 10; i++) {
         int result = number * i; // Считаем результат умножения
         System.out.println(number + "*" + i + "=" + result);
